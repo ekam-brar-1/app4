@@ -20,6 +20,7 @@ function Form() {
                 onChange={(e) => setAge(e.target.value)} />
                 <p>{age}</p>
                 <p>{age}</p>
+                
         </form>
     )
 }
